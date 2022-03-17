@@ -42,3 +42,6 @@ The f1_score gave a result of 0.5879106438896189
 The Confusion_matrix, the classification_report and the accuracy_score gave me similar values
 
 I tried to tune the model, but the results continued to be negative, with scores around .6 always in both models.
+
+
+You can see the code in: https://github.com/Chelo-ad/Comments_classifier/blob/main/Clasificaci%C3%B3n_reviews_amazon-2(1).ipynb
